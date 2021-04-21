@@ -92,6 +92,7 @@ Please use directly the repo of a component to report issues and create PRs:
 - [Analytics SDK Python](https://github.com/snowplow/snowplow-python-analytics-sdk)
 - [Analytics SDK .NET](https://github.com/snowplow/snowplow-dotnet-analytics-sdk)
 - [Analytics SDK Javascript](https://github.com/snowplow-incubator/snowplow-js-analytics-sdk/)
+- [Analytics SDK Golang](https://github.com/snowplow/snowplow-golang-analytics-sdk)
 
 ### [Bad rows](https://github.com/snowplow-incubator/snowplow-badrows)
 
